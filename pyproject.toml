@@ -2,7 +2,7 @@
 name = "csv2gs"
 version = "0.1.0"
 description = "Upload CSV to Google Sheets using CLI"
-authors = ["Alexey Kulichevskiy <alex@alexchevsky.com>"]
+authors = ["Alex Chevskiy <alex@alexchevsky.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
